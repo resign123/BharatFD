@@ -1,8 +1,4 @@
-# BharatFD Hiring Challenge - Backend
-
-Welcome to the backend of the **BharatFD Hiring Challenge** repository. This project is designed to evaluate backend development skills, focusing on creating a **multilingual FAQ management system**.
-
----
+# Multilingual FAQ management system
 
 ## 🚀 Tech Stack
 
